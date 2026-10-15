@@ -11,6 +11,15 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Thursday, October 15, 2026</title>
+    <description>Anthropic&#x27;s $16.8B quarter and Ramp&#x27;s AI spending data, Gemini Argon&#x27;s monitorability problem, the $30 H100 test for AGI, agentic verification, Claude agent tracing, Google Deep Review, AI routers, and engineering stories from Cloudflare, GitHub, Meta and Netflix.</description>
+    <guid isPermaLink="false">daily-download-2026-10-15</guid>
+    <pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-15.mp3" length="8286999" type="audio/mpeg"/>
+    <itunes:duration>1035</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Wednesday, October 14, 2026</title>
     <description>Gemini 4 Argon goes wide, Anthropic replaces git with Scion, Claude agent flows, autonomy for financial agents, Apple HomeView, AI pricing, PostHog&#x27;s 38 lessons, and a vision chip for Stargardt disease.</description>
     <guid isPermaLink="false">daily-download-2026-10-14</guid>

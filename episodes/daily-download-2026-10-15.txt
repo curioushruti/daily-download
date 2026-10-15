@@ -1,0 +1,1 @@
+Anthropic's $16.8B quarter and Ramp's AI spending data, Gemini Argon's monitorability problem, the $30 H100 test for AGI, agentic verification, Claude agent tracing, Google Deep Review, AI routers, and engineering stories from Cloudflare, GitHub, Meta and Netflix.
