@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>The Daily Download</title>
+  <link>https://curioushruti.github.io/daily-download/</link>
+  <language>en-us</language>
+  <description>Daily tech newsletters, with the linked articles read and turned into one episode.</description>
+  <itunes:author>The Daily Download</itunes:author>
+  <itunes:image href="https://curioushruti.github.io/daily-download/cover.jpg"/>
+  <itunes:block>Yes</itunes:block>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="Technology"/>
+  <item>
+    <title>Wednesday, October 14, 2026</title>
+    <description>Gemini 4 Argon goes wide, Anthropic replaces git with Scion, Claude agent flows, autonomy for financial agents, Apple HomeView, AI pricing, PostHog&#x27;s 38 lessons, and a vision chip for Stargardt disease.</description>
+    <guid isPermaLink="false">daily-download-2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-14.mp3" length="7733655" type="audio/mpeg"/>
+    <itunes:duration>965</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
