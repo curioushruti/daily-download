@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Monday, October 19, 2026</title>
+    <description>How AI is changing work at Anthropic, Replit switches to OpenAI, the AI pricing maze, and whether AI brings a golden or dark age for mathematics.</description>
+    <guid isPermaLink="false">daily-download-2026-10-19</guid>
+    <pubDate>Mon, 19 Oct 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-19.mp3" length="7547949" type="audio/mpeg"/>
+    <itunes:duration>943</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Friday, October 16, 2026</title>
     <description>Neural networks may be cleaner than we thought, Meta&#x27;s Muse Spark Open, how Codex happened, what AI really costs, and a quantum milestone.</description>
     <guid isPermaLink="false">daily-download-2026-10-16</guid>
     <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-16.mp3" length="10323501" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-16.mp3" length="10329303" type="audio/mpeg"/>
     <itunes:duration>1290</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
