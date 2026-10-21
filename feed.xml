@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Wednesday, October 21, 2026</title>
+    <description>DeepSeek open-sources DeepInfer, Claude designs scorpion-toxin binders, METR reviews Anthropic&#x27;s risk report, Pichai, Mollick, the end of Foursquare and more.</description>
+    <guid isPermaLink="false">daily-download-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-21.mp3" length="6108333" type="audio/mpeg"/>
+    <itunes:duration>763</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Tuesday, October 20, 2026</title>
     <description>AI proves the quasi-Riemann hypothesis, Jack Clark tells the IMF the singularity has begun, why benchmarks mislead, and a wave of fast, cheap models.</description>
     <guid isPermaLink="false">daily-download-2026-10-20</guid>
     <pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-20.mp3" length="6233133" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-20.mp3" length="6238935" type="audio/mpeg"/>
     <itunes:duration>779</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
