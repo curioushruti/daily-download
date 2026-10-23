@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Friday, October 23, 2026</title>
+    <description>Claude formally proves 123 libraries can&#x27;t crash, METR red-teams OpenAI&#x27;s agent monitor, Claude&#x27;s text watermark, Anthropic&#x27;s own source control, Meta&#x27;s open Muse model and more.</description>
+    <guid isPermaLink="false">daily-download-2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-23.mp3" length="6519597" type="audio/mpeg"/>
+    <itunes:duration>814</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Thursday, October 22, 2026</title>
     <description>PHP2Shell and a very bad security day, Anthropic&#x27;s Claude Duet, the Flint local coding model, AI models hiding messages in pictures, and Terry Tao&#x27;s blog on young mathematicians.</description>
     <guid isPermaLink="false">daily-download-2026-10-22</guid>
     <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-22.mp3" length="6470253" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-22.mp3" length="6476055" type="audio/mpeg"/>
     <itunes:duration>808</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>

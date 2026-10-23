@@ -1,0 +1,1 @@
+Claude formally proves 123 libraries can't crash, METR red-teams OpenAI's agent monitor, Claude's text watermark, Anthropic's own source control, Meta's open Muse model and more.
