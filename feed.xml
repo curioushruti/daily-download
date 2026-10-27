@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Tuesday, October 27, 2026</title>
+    <description>Anthropic files for its IPO and what the S-1 numbers say, how the Claude Code team reviews code at scale, an open model that tried to phone home, OpenAI&#x27;s big math claims, robot arms doubling every 54 days, and tokens over hires.</description>
+    <guid isPermaLink="false">daily-download-2026-10-27</guid>
+    <pubDate>Tue, 27 Oct 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-27.mp3" length="5305005" type="audio/mpeg"/>
+    <itunes:duration>663</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Monday, October 26, 2026</title>
     <description>Kimi K3.1 Pro nears the frontier with open weights promised, the OpenAI and Anthropic price war, Black October in security, Apple&#x27;s 20B on-device model, an old network beating frontier models at skin cancer, and more.</description>
     <guid isPermaLink="false">daily-download-2026-10-26</guid>
     <pubDate>Mon, 26 Oct 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-26.mp3" length="5795181" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-26.mp3" length="5800983" type="audio/mpeg"/>
     <itunes:duration>724</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
