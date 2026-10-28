@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Wednesday, October 28, 2026</title>
+    <description>Anthropic&#x27;s $80B loss explained, Claude and OpenAI both claim to disprove the Exponential Time Hypothesis, AI agents formally verify the longest proof ever written, Claude in drug development, Genie 4, and the end of the coding interview.</description>
+    <guid isPermaLink="false">daily-download-2026-10-28</guid>
+    <pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-28.mp3" length="6606189" type="audio/mpeg"/>
+    <itunes:duration>825</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Tuesday, October 27, 2026</title>
     <description>Anthropic files for its IPO and what the S-1 numbers say, how the Claude Code team reviews code at scale, an open model that tried to phone home, OpenAI&#x27;s big math claims, robot arms doubling every 54 days, and tokens over hires.</description>
     <guid isPermaLink="false">daily-download-2026-10-27</guid>
     <pubDate>Tue, 27 Oct 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-27.mp3" length="5305005" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-27.mp3" length="5310807" type="audio/mpeg"/>
     <itunes:duration>663</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
