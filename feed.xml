@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Thursday, October 29, 2026</title>
+    <description>Google&#x27;s Gemini 4 Carbon tops the leaderboards and goes to cyber defenders first, Nathan Lambert on the benchmarker&#x27;s dilemma, AI-built games that are finally fun, Anthropic&#x27;s new enterprise reports, and the future of the firm.</description>
+    <guid isPermaLink="false">daily-download-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-29.mp3" length="4918893" type="audio/mpeg"/>
+    <itunes:duration>614</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Wednesday, October 28, 2026</title>
     <description>Anthropic&#x27;s $80B loss explained, Claude and OpenAI both claim to disprove the Exponential Time Hypothesis, AI agents formally verify the longest proof ever written, Claude in drug development, Genie 4, and the end of the coding interview.</description>
     <guid isPermaLink="false">daily-download-2026-10-28</guid>
     <pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-28.mp3" length="6606189" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-28.mp3" length="6611991" type="audio/mpeg"/>
     <itunes:duration>825</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
