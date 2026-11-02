@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Monday, November 2, 2026</title>
+    <description>Wall Street gets nervous about AI spending as Google says AI Mode hurt search revenue, OpenAI raises less than hoped, and Anthropic&#x27;s S-1 shows its first profitable quarter. Plus a correction on the Claude Code extension story, new Claude Ultra limits, three safety papers on hidden failure modes, Frank Calegari on how mathematics has changed, Postgres 19&#x27;s AI-driven delay, hiring junior engineers, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-02.mp3" length="7230765" type="audio/mpeg"/>
+    <itunes:duration>903</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Friday, October 30, 2026</title>
     <description>Mistral Large 4 ships as trillion-parameter open weights, and Epoch shows an open model turning published Firefox fixes into exploits for about $1,000 each. Then The Batch&#x27;s Halloween review of 2026&#x27;s AI fears, DeepMind on the economics of intelligence, Noah Smith on a golden age of science, leadership in agent swarms, Meta&#x27;s just-in-time tests, PM at Anthropic, and quick hits including DoorDash buying Instacart.</description>
     <guid isPermaLink="false">daily-download-2026-10-30</guid>
     <pubDate>Fri, 30 Oct 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-30.mp3" length="8276781" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-30.mp3" length="8282583" type="audio/mpeg"/>
     <itunes:duration>1034</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
