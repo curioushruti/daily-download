@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Tuesday, November 3, 2026</title>
+    <description>Anthropic&#x27;s amended IPO filing says it may soon hit its threshold for AI-accelerated progress, and reports $33B in nine-month revenue. Plus the debate over models editing neural network weights directly, Claude message threads, the case for agents with one tool, Microsoft&#x27;s Copilot Cowork lessons, Karri Saarinen on organizations overwhelmed by their own output, a16z on AI app premiums, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-03.mp3" length="5778093" type="audio/mpeg"/>
+    <itunes:duration>722</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Monday, November 2, 2026</title>
     <description>Wall Street gets nervous about AI spending as Google says AI Mode hurt search revenue, OpenAI raises less than hoped, and Anthropic&#x27;s S-1 shows its first profitable quarter. Plus a correction on the Claude Code extension story, new Claude Ultra limits, three safety papers on hidden failure modes, Frank Calegari on how mathematics has changed, Postgres 19&#x27;s AI-driven delay, hiring junior engineers, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-02</guid>
     <pubDate>Mon, 02 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-02.mp3" length="7230765" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-02.mp3" length="7236567" type="audio/mpeg"/>
     <itunes:duration>903</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
