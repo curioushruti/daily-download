@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Wednesday, November 4, 2026</title>
+    <description>Siri AI opens to developers as ChatGPT reaches 1.2 billion weekly users. Menlo&#x27;s state of enterprise AI, a SaaS slowdown in Stripe data, what tokens really cost and Revolut&#x27;s self-hosting savings, a second critique of the weights-editing paper, Anthropic&#x27;s provable inference, plus three engineering deep dives: a tale of two eras, Netflix&#x27;s performance agents, and how Nemotron stays cheap.</description>
+    <guid isPermaLink="false">daily-download-2026-11-04</guid>
+    <pubDate>Wed, 04 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-04.mp3" length="6891501" type="audio/mpeg"/>
+    <itunes:duration>861</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Tuesday, November 3, 2026</title>
     <description>Anthropic&#x27;s amended IPO filing says it may soon hit its threshold for AI-accelerated progress, and reports $33B in nine-month revenue. Plus the debate over models editing neural network weights directly, Claude message threads, the case for agents with one tool, Microsoft&#x27;s Copilot Cowork lessons, Karri Saarinen on organizations overwhelmed by their own output, a16z on AI app premiums, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-03</guid>
     <pubDate>Tue, 03 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-03.mp3" length="5778093" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-03.mp3" length="5783895" type="audio/mpeg"/>
     <itunes:duration>722</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
