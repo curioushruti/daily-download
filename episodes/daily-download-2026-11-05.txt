@@ -1,0 +1,1 @@
+Anthropic made $17 billion in a quarter, but its growth slowed and short-term GPU costs turned a profit into a loss. SaaStr and Tomasz Tunguz explain why, and why multi-year AI contracts are coming. Plus: PostHog moves off DuckDB, Airbnb's small fine-tuned classifier matches frontier models at 1% of the cost, Maggie Appleton on speculative design, and quick hits.

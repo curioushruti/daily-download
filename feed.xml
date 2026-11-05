@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Thursday, November 5, 2026</title>
+    <description>Anthropic made $17 billion in a quarter, but its growth slowed and short-term GPU costs turned a profit into a loss. SaaStr and Tomasz Tunguz explain why, and why multi-year AI contracts are coming. Plus: PostHog moves off DuckDB, Airbnb&#x27;s small fine-tuned classifier matches frontier models at 1% of the cost, Maggie Appleton on speculative design, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-05</guid>
+    <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-05.mp3" length="6750381" type="audio/mpeg"/>
+    <itunes:duration>843</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Wednesday, November 4, 2026</title>
     <description>Siri AI opens to developers as ChatGPT reaches 1.2 billion weekly users. Menlo&#x27;s state of enterprise AI, a SaaS slowdown in Stripe data, what tokens really cost and Revolut&#x27;s self-hosting savings, a second critique of the weights-editing paper, Anthropic&#x27;s provable inference, plus three engineering deep dives: a tale of two eras, Netflix&#x27;s performance agents, and how Nemotron stays cheap.</description>
     <guid isPermaLink="false">daily-download-2026-11-04</guid>
     <pubDate>Wed, 04 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-04.mp3" length="6891501" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-04.mp3" length="6897303" type="audio/mpeg"/>
     <itunes:duration>861</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
