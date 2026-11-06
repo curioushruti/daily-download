@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Friday, November 6, 2026</title>
+    <description>Investors push back on Anthropic&#x27;s IPO valuation, and METR finds AI has roughly doubled the pace of Anthropic&#x27;s research. Plus: Gemini 4 Carbon tops a major leaderboard, a wave of new models, how AI made exploits cheap, GitHub rebuilding Git storage for agents, the end of feature discovery, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-06</guid>
+    <pubDate>Fri, 06 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-06.mp3" length="7651245" type="audio/mpeg"/>
+    <itunes:duration>956</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Thursday, November 5, 2026</title>
     <description>Anthropic made $17 billion in a quarter, but its growth slowed and short-term GPU costs turned a profit into a loss. SaaStr and Tomasz Tunguz explain why, and why multi-year AI contracts are coming. Plus: PostHog moves off DuckDB, Airbnb&#x27;s small fine-tuned classifier matches frontier models at 1% of the cost, Maggie Appleton on speculative design, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-05</guid>
     <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-05.mp3" length="6750381" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-05.mp3" length="6756183" type="audio/mpeg"/>
     <itunes:duration>843</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
