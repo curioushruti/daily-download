@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Monday, November 9, 2026</title>
+    <description>Is AI already dramatically speeding up AI research? Ajeya Cotra makes the case, and an AI system proves the Aaronson-Ambainis conjecture. Plus: Anthropic and OpenAI valuations slide, how to handle AI gross margins, Anthropic on agent memory and &quot;dreaming&quot;, essays on signal collapse and the Jevons paradox, Nvidia&#x27;s investigation, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-09.mp3" length="7846125" type="audio/mpeg"/>
+    <itunes:duration>980</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Friday, November 6, 2026</title>
     <description>Investors push back on Anthropic&#x27;s IPO valuation, and METR finds AI has roughly doubled the pace of Anthropic&#x27;s research. Plus: Gemini 4 Carbon tops a major leaderboard, a wave of new models, how AI made exploits cheap, GitHub rebuilding Git storage for agents, the end of feature discovery, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-06</guid>
     <pubDate>Fri, 06 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-06.mp3" length="7651245" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-06.mp3" length="7657047" type="audio/mpeg"/>
     <itunes:duration>956</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
