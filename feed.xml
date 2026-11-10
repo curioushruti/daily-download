@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Tuesday, November 10, 2026</title>
+    <description>Anthropic releases Claude Fable 5.2 and Mythos 5.2 as its IPO roadshow begins: what&#x27;s new, how it scores, why it can cost more per task, and Ethan Mollick&#x27;s &quot;jagged AGI&quot; verdict. Plus: Anthropic buys gas generators, Google&#x27;s new TPUs, when the US imports tokens, the software IP writedown, how Product Hunt almost died, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-10</guid>
+    <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-10.mp3" length="6965805" type="audio/mpeg"/>
+    <itunes:duration>870</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Monday, November 9, 2026</title>
     <description>Is AI already dramatically speeding up AI research? Ajeya Cotra makes the case, and an AI system proves the Aaronson-Ambainis conjecture. Plus: Anthropic and OpenAI valuations slide, how to handle AI gross margins, Anthropic on agent memory and &quot;dreaming&quot;, essays on signal collapse and the Jevons paradox, Nvidia&#x27;s investigation, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-09</guid>
     <pubDate>Mon, 09 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-09.mp3" length="7846125" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-09.mp3" length="7851927" type="audio/mpeg"/>
     <itunes:duration>980</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
