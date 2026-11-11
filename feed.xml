@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Wednesday, November 11, 2026</title>
+    <description>Anthropic sets its IPO terms (825 million shares at $70–78), and the AI 2027 team now expects a superhuman AI researcher likely in 2027. Plus: Gemini 4 Carbon goes wide at a low price, Claude Sheets and Whiteboards, DeepMind verifies Signal&#x27;s protocol, 35,000 open Grok-built apps, autonomous companies, AI-native services, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-11.mp3" length="7449453" type="audio/mpeg"/>
+    <itunes:duration>931</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Tuesday, November 10, 2026</title>
     <description>Anthropic releases Claude Fable 5.2 and Mythos 5.2 as its IPO roadshow begins: what&#x27;s new, how it scores, why it can cost more per task, and Ethan Mollick&#x27;s &quot;jagged AGI&quot; verdict. Plus: Anthropic buys gas generators, Google&#x27;s new TPUs, when the US imports tokens, the software IP writedown, how Product Hunt almost died, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-10</guid>
     <pubDate>Tue, 10 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-10.mp3" length="6965805" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-10.mp3" length="6971607" type="audio/mpeg"/>
     <itunes:duration>870</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
