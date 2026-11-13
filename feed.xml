@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Friday, November 13, 2026</title>
+    <description>Jensen Huang resigns as Nvidia&#x27;s CEO after 33 years, and a forensic report finds Blackwell fingerprints in Chinese models. Plus: Gemini 4 Hydrogen, self-hosted Claude agents and Claude Meetings, GPT-6 Cyber patches 948 Linux flaws, one-year AGI timelines, slop moving up the stack, search ads, founders running companies with agents, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-13</guid>
+    <pubDate>Fri, 13 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-13.mp3" length="7720557" type="audio/mpeg"/>
+    <itunes:duration>965</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Thursday, November 12, 2026</title>
     <description>Nvidia&#x27;s board is reportedly preparing to remove Jensen Huang. Plus: should we panic about AI, who captures the margin in AI, the B2A economy, AWS Emulator and the real cost of MCP tools, Google&#x27;s Decisions API and AlphaGenome 2, data news, why managers exist, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-12</guid>
     <pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-12.mp3" length="8644077" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-12.mp3" length="8649879" type="audio/mpeg"/>
     <itunes:duration>1080</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
