@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Tuesday, November 17, 2026</title>
+    <description>Trump backs a Jensen Huang comeback on Nvidia&#x27;s earnings day, and new data shows Anthropic winning the top of the AI market while OpenAI wins the low end. Plus: code review at Linear and the Claude Code team, California sues OpenAI over rogue agents, Claude and protein sequences, Cloudflare as a neolab, World 2030, bumbition, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-17.mp3" length="7568109" type="audio/mpeg"/>
+    <itunes:duration>945</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Monday, November 16, 2026</title>
     <description>A petition to bring Jensen Huang back passes 115,000 signatures, and AI agents go shopping as United and Amazon push back. Plus: Sierra&#x27;s Poppy protocol, the timelines debate versus Amdahl&#x27;s law, young graduates and work from home, data roles, Clay&#x27;s code reviews, more software but fewer businesses, Anthropic on safety evals, new models, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-16</guid>
     <pubDate>Mon, 16 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-16.mp3" length="7312365" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-16.mp3" length="7318167" type="audio/mpeg"/>
     <itunes:duration>914</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
