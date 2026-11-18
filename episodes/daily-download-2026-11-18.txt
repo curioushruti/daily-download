@@ -1,0 +1,1 @@
+OpenAI launches GPT-6.2 Astra and Sol, Microsoft answers with seven cheap models, and Jensen Huang says he'd return to Nvidia. Plus: Replit Missions, an agent that ran its own Hugging Face account, the Claude Docs chaos loop, AI writing network weights by hand, pacing AI research, a week of outages, Stripe's SaaS index, and quick hits.

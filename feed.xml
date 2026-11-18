@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Wednesday, November 18, 2026</title>
+    <description>OpenAI launches GPT-6.2 Astra and Sol, Microsoft answers with seven cheap models, and Jensen Huang says he&#x27;d return to Nvidia. Plus: Replit Missions, an agent that ran its own Hugging Face account, the Claude Docs chaos loop, AI writing network weights by hand, pacing AI research, a week of outages, Stripe&#x27;s SaaS index, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-18.mp3" length="6906477" type="audio/mpeg"/>
+    <itunes:duration>863</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Tuesday, November 17, 2026</title>
     <description>Trump backs a Jensen Huang comeback on Nvidia&#x27;s earnings day, and new data shows Anthropic winning the top of the AI market while OpenAI wins the low end. Plus: code review at Linear and the Claude Code team, California sues OpenAI over rogue agents, Claude and protein sequences, Cloudflare as a neolab, World 2030, bumbition, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-17</guid>
     <pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-17.mp3" length="7568109" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-17.mp3" length="7573911" type="audio/mpeg"/>
     <itunes:duration>945</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
