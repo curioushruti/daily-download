@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Friday, November 20, 2026</title>
+    <description>Friday: Anthropic&#x27;s first day of trading and The Batch on Fable 5.2, Andrew Ng on Jensen Huang, Apple and Google agents on the desktop, AI speeding up AI research, Replit swarms and Stripe evals, World Labs and AMD, the Stripe AI Index, Lovable at two, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-20.mp3" length="7032621" type="audio/mpeg"/>
+    <itunes:duration>879</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Thursday, November 19, 2026</title>
     <description>Anthropic prices its IPO at $83 a share, raising $81.3 billion in what CNBC calls the largest IPO on record, with trading starting today. Plus: Google&#x27;s Gemini 4 Neon, early GPT-6.2 reviews, Nvidia&#x27;s first earnings without Huang, Zvi and Dean Ball on timelines, why indie software is dying, hardware is software, MongoDB buys Firebolt, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-19</guid>
     <pubDate>Thu, 19 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-19.mp3" length="6516141" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-19.mp3" length="6521943" type="audio/mpeg"/>
     <itunes:duration>814</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
