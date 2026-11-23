@@ -1,0 +1,1 @@
+Monday: a Claude-assisted proof of the Riemann Hypothesis passes Lean's checks, METR's update and the timeline skeptics, Inkling 2 Mini and other releases, AI providers caught stealing prompts, teams shipping 100 PRs a week, pass-through AI pricing, and quick hits.

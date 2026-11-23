@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Monday, November 23, 2026</title>
+    <description>Monday: a Claude-assisted proof of the Riemann Hypothesis passes Lean&#x27;s checks, METR&#x27;s update and the timeline skeptics, Inkling 2 Mini and other releases, AI providers caught stealing prompts, teams shipping 100 PRs a week, pass-through AI pricing, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-23.mp3" length="7919661" type="audio/mpeg"/>
+    <itunes:duration>989</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Friday, November 20, 2026</title>
     <description>Friday: Anthropic&#x27;s first day of trading and The Batch on Fable 5.2, Andrew Ng on Jensen Huang, Apple and Google agents on the desktop, AI speeding up AI research, Replit swarms and Stripe evals, World Labs and AMD, the Stripe AI Index, Lovable at two, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-20</guid>
     <pubDate>Fri, 20 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-20.mp3" length="7032621" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-20.mp3" length="7038423" type="audio/mpeg"/>
     <itunes:duration>879</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
