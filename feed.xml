@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Wednesday, November 25, 2026</title>
+    <description>Wednesday: Anthropic and OpenAI both prove VP is not VNP, Huang&#x27;s first all-hands back at Nvidia, OpenAI publishes its pretraining curve and proposes shared limits, a study finds swarms buy speed not capability, new Claude features, Simon Willison&#x27;s three turning points, and quick hits.</description>
+    <guid isPermaLink="false">daily-download-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-25.mp3" length="6463725" type="audio/mpeg"/>
+    <itunes:duration>807</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Tuesday, November 24, 2026</title>
     <description>Tuesday: Nvidia reinstates Jensen Huang as CEO, Anthropic launches Claude Ship, what coding agents really spend their time on, DeepMind&#x27;s agents find faster quantum algorithms, how shopping agents choose what to buy, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-24</guid>
     <pubDate>Tue, 24 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-24.mp3" length="5754093" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-24.mp3" length="5759895" type="audio/mpeg"/>
     <itunes:duration>719</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -269,15 +278,6 @@
     <pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
     <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-15.mp3" length="8286999" type="audio/mpeg"/>
     <itunes:duration>1035</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Wednesday, October 14, 2026</title>
-    <description>Gemini 4 Argon goes wide, Anthropic replaces git with Scion, Claude agent flows, autonomy for financial agents, Apple HomeView, AI pricing, PostHog&#x27;s 38 lessons, and a vision chip for Stargardt disease.</description>
-    <guid isPermaLink="false">daily-download-2026-10-14</guid>
-    <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-14.mp3" length="7733655" type="audio/mpeg"/>
-    <itunes:duration>965</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
 </channel>
