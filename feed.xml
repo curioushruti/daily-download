@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Thursday, November 26, 2026</title>
+    <description>Anthropic&#x27;s Siren sandbox-escape study and an Opus 5.6 rumor, Aaronson on omega = 9/4, SpaceX orbital data centers, ANT below its IPO price, agents as customers, the funding bar, and Grab&#x27;s Scarlet.</description>
+    <guid isPermaLink="false">daily-download-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-26.mp3" length="5747373" type="audio/mpeg"/>
+    <itunes:duration>718</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Wednesday, November 25, 2026</title>
     <description>Wednesday: Anthropic and OpenAI both prove VP is not VNP, Huang&#x27;s first all-hands back at Nvidia, OpenAI publishes its pretraining curve and proposes shared limits, a study finds swarms buy speed not capability, new Claude features, Simon Willison&#x27;s three turning points, and quick hits.</description>
     <guid isPermaLink="false">daily-download-2026-11-25</guid>
     <pubDate>Wed, 25 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-25.mp3" length="6463725" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-25.mp3" length="6469527" type="audio/mpeg"/>
     <itunes:duration>807</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -269,15 +278,6 @@
     <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
     <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-16.mp3" length="10329303" type="audio/mpeg"/>
     <itunes:duration>1290</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Thursday, October 15, 2026</title>
-    <description>Anthropic&#x27;s $16.8B quarter and Ramp&#x27;s AI spending data, Gemini Argon&#x27;s monitorability problem, the $30 H100 test for AGI, agentic verification, Claude agent tracing, Google Deep Review, AI routers, and engineering stories from Cloudflare, GitHub, Meta and Netflix.</description>
-    <guid isPermaLink="false">daily-download-2026-10-15</guid>
-    <pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-15.mp3" length="8286999" type="audio/mpeg"/>
-    <itunes:duration>1035</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
 </channel>
