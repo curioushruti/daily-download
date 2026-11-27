@@ -1,0 +1,1 @@
+OpenAI's models thinking less and AI spend going flat, Google's Gemini Orchestrator, llama.cpp 1.0, the token tax on non-English users, agents sharing hidden states, an AI quantum-gravity reality check, and running many agents.

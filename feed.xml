@@ -11,11 +11,20 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <item>
+    <title>Friday, November 27, 2026</title>
+    <description>OpenAI&#x27;s models thinking less and AI spend going flat, Google&#x27;s Gemini Orchestrator, llama.cpp 1.0, the token tax on non-English users, agents sharing hidden states, an AI quantum-gravity reality check, and running many agents.</description>
+    <guid isPermaLink="false">daily-download-2026-11-27</guid>
+    <pubDate>Fri, 27 Nov 2026 16:00:00 +0000</pubDate>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-27.mp3" length="6774765" type="audio/mpeg"/>
+    <itunes:duration>846</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Thursday, November 26, 2026</title>
     <description>Anthropic&#x27;s Siren sandbox-escape study and an Opus 5.6 rumor, Aaronson on omega = 9/4, SpaceX orbital data centers, ANT below its IPO price, agents as customers, the funding bar, and Grab&#x27;s Scarlet.</description>
     <guid isPermaLink="false">daily-download-2026-11-26</guid>
     <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-26.mp3" length="5747373" type="audio/mpeg"/>
+    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-11-26.mp3" length="5753175" type="audio/mpeg"/>
     <itunes:duration>718</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -269,15 +278,6 @@
     <pubDate>Mon, 19 Oct 2026 16:00:00 +0000</pubDate>
     <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-19.mp3" length="7553751" type="audio/mpeg"/>
     <itunes:duration>943</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Friday, October 16, 2026</title>
-    <description>Neural networks may be cleaner than we thought, Meta&#x27;s Muse Spark Open, how Codex happened, what AI really costs, and a quantum milestone.</description>
-    <guid isPermaLink="false">daily-download-2026-10-16</guid>
-    <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
-    <enclosure url="https://curioushruti.github.io/daily-download/episodes/daily-download-2026-10-16.mp3" length="10329303" type="audio/mpeg"/>
-    <itunes:duration>1290</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
 </channel>
